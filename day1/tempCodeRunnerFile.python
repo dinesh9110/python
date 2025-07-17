@@ -1,0 +1,13 @@
+n=int(input("enter the marks"))
+if n>=91:
+    print("grade=a1")
+elif n>=81 and n<=90:
+    print("grade=a2")
+elif n>=71 and n<=80:
+    print("grade=b1")
+elif n>=61 and n<=70:
+    print("grade=b2")
+elif n>=51 and n<=60:
+    print("grade=c1")
+elif n>=41 and n<=50:
+    print("grade=c2")

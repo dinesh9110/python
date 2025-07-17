@@ -1,0 +1,41 @@
+python data types
+txt:->str                                          ex:x="hello world"
+num type:->int,float,complex                          x=20
+sequence:->list,tuple,range                            
+mapping type:->dict
+set type:->set,frozenset                     {"orange","banana","cherry"} ,({"orange","banana","cherry"})
+boolean type:->bool
+binary type:-> bytes,bytearray,memmoryview    x=b"hello",x=bytearray(5),x=memmoryview(bytes(5jv))
+
+
+slicing :
+
+you can return a range of characters by using
+operators
+1.arithmetic operators
+2.assignment operators
+3.comparison operators
+4.logical operators
+5.
+
+is          returns true if both variables are the same object x is you
+is not      returns true if both variables are not the same object
+
+list:-
+lists are used to store multiple items in a single variables
+list items:-
+list items are ordered,changeable,and allow duplicate values.
+list items are indexed,then first item has index[0],the second item has index[1]
+
+changeable:->
+the list is changeable ,meaning that we can change ,add,and remove items in a list after it has been created
+
+allow duplicates:-
+since lists are indexed ,lists can have 
+
+
+
+list:- is a collection which is ordered and changeable allows duplicate members
+tuple:- is a collection which is ordered and unchangeable allows duplicate members
+set:-
+dictionary:-
